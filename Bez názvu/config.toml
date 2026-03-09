@@ -1,0 +1,12 @@
+[theme]
+# The main accent color (used for buttons, sliders, etc.) - Solid Blue
+primaryColor="#0068C9"
+
+# The main background color - Pure White
+backgroundColor="#FFFFFF"
+
+# Background color for interactive elements and sidebar - Very Light Blue
+secondaryBackgroundColor="#E8F1F2"
+
+# The color of the text - Dark text for readability
+textColor="#131722"
